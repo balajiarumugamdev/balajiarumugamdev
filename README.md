@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Balaji - a Frontend Developer passionate about building clean, responsive, and user-friendly interfaces. With a strong eye for design precision and attention to detail, I craft experiences that are both functional and visually compelling.<br><br>🔧 What I Do:<br><br>Build scalable, maintainable frontend applications using React, TypeScript, and modern web tools<br><br>Focus on pixel-perfect UI and intuitive UX<br><br>Optimize performance and accessibility across devices<br><br>🧠 Things I Care About:<br><br>Writing clean, modular code<br><br>Staying up to date with frontend trends<br><br>Prioritizing user experience and interface consistency<br><br>🌱 Currently exploring advanced animations with Framer Motion and chart visualizations with D3.js.
-
+Hi, I'm Balaji - a Frontend Developer passionate about building clean, responsive, and user-friendly interfaces. With a strong eye for design precision and attention to detail, I craft experiences that are both functional and visually compelling.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-arumugam-dev) 
