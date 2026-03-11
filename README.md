@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Balaji - Software Engineer passionate about building scalable, performant and user centric web applications. With a strong eye for design precision and attention to detail, I craft experiences that are both functional and visually compelling.
+Hi, I'm Balaji, a Software Engineer passionate about building scalable, performant and user centric web applications. I care deeply about clean architecture, design precision, and detail, crafting experiences that are both highly functional, visually compelling and user friendly.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-arumugam-dev) 
